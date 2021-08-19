@@ -114,15 +114,3 @@ In the meanwhile you should start record.
 
 
 ```
-<img width="1212" alt="Screen Shot 2021-07-19 at 16 53 36" src="https://user-images.githubusercontent.com/35552892/126189537-02fe04d2-6852-4705-825c-5c2312040ce1.png">
-
-<img width="1148" alt="Screen Shot 2021-07-19 at 16 54 04" src="https://user-images.githubusercontent.com/35552892/126189630-06899411-f481-4168-82b0-474f5f9cca51.png">
-
-<img width="1349" alt="Screen Shot 2021-07-19 at 16 54 14" src="https://user-images.githubusercontent.com/35552892/126189656-bc85e970-45c2-4cde-959a-11c8fa57a248.png">
-
-<img width="1070" alt="Screen Shot 2021-07-19 at 16 54 28" src="https://user-images.githubusercontent.com/35552892/126189678-058a9602-22bd-4ea6-968d-fa06a0c61402.png">
-
-<img width="1206" alt="Screen Shot 2021-07-19 at 16 54 48" src="https://user-images.githubusercontent.com/35552892/126189720-669a8826-f0e7-436f-9820-4c48261242a6.png">
-
-<img width="1397" alt="Screen Shot 2021-07-19 at 16 55 00" src="https://user-images.githubusercontent.com/35552892/126189754-b02ef311-9f00-49a2-8316-c661b17abe73.png">
-
