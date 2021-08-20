@@ -118,7 +118,7 @@ function logEventforVM(){
 		done
 
 		free_mem=$(virsh --connect qemu:///system dommemstat $vmName | grep unused | awk '{print $2}')
-		total_mem=$(virsh --connect qemu:///system dommemstat $vmName | grep actual | awk '{print $2}')
+		total_mem=$(virsh --connect qemu:///system dommemstat $vmName | grep available | awk '{print $2}')
 		diff=$(expr $total_mem - $free_mem)
 #<<<<<<< HEAD
 #		echo "Free memory $free_mem"
